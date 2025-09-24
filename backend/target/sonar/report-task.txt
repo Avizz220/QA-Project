@@ -1,0 +1,6 @@
+projectKey=QA_project_new
+serverUrl=http://localhost:9000
+serverVersion=25.9.0.112764
+dashboardUrl=http://localhost:9000/dashboard?id=QA_project_new
+ceTaskId=f921905b-4eed-40fe-abc9-ed571ffda139
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f921905b-4eed-40fe-abc9-ed571ffda139

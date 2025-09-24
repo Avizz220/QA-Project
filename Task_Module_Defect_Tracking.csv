@@ -1,0 +1,6 @@
+Defect ID,Description,Severity,Component,Status,Date Found
+DEF-001,"Missing Validation in TaskController: TaskController doesn't validate task title properly before passing to service layer",Major,TaskController,Open,2025-09-21
+DEF-002,"Status Transition Error: Cannot transition from COMPLETED to PENDING status",Minor,TaskService,Open,2025-09-21
+DEF-003,"Empty Title Validation: UI validation for empty task titles not working properly",Major,TaskController,Open,2025-09-21
+DEF-004,"Task Update Error: When a task is updated with invalid data, the error handling is incomplete",Major,TaskService,Open,2025-09-21
+DEF-005,"Authentication Issue: JWT token expiration handling not properly implemented",Critical,TaskController,Open,2025-09-21

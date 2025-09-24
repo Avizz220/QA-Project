@@ -1,0 +1,8 @@
+Test Session ID,Duration (hours),Operations Performed,Failure Observed,Time to Failure (hours),Failure Description
+Session-001,10,220,Yes,8,Server crash during high concurrent task creation
+Session-002,12,180,Yes,12,Database connection timeout
+Session-003,8,150,No,N/A,No failures observed
+Session-004,8,200,No,N/A,No failures observed
+Session-005,20,250,Yes,18,Memory leak causing application slowdown
+Session-006,7,100,Yes,7,Authentication token expiration issue
+Session-007,5,100,Yes,5,Task status update failure
